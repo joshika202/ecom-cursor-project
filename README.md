@@ -107,10 +107,12 @@ Here is a **clean, ready-to-paste bullet list** for your README:
 - Adjust dataset sizes via constants in `scripts/generate_data.py`.
 - `analysis/advanced_queries.sql` contains more in-depth SQL examples for notebooks or BI tools.
 
-##Pictuers
-
+##Pictures
+-1.generate_data.py output picture:
 ![Order Summary Screenshot](https://github.com/joshika202/ecom-cursor-project/blob/main/pic/Screenshot%20-1.png) 
+-2. query_run.py output picture:
 ![Order Summary Screenshot](https://github.com/joshika202/ecom-cursor-project/blob/main/pic/Screenshot%20-2.png)
+-3. visualize_reports.py output picture:
 ![Order Summary Screenshot](https://github.com/joshika202/ecom-cursor-project/blob/main/pic/Screenshot%20-3.png)
 
 

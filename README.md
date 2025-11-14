@@ -107,3 +107,7 @@ Here is a **clean, ready-to-paste bullet list** for your README:
 - Adjust dataset sizes via constants in `scripts/generate_data.py`.
 - `analysis/advanced_queries.sql` contains more in-depth SQL examples for notebooks or BI tools.
 
+##Pictuers
+
+![generate_data output](pic/ScreenShot-1)
+

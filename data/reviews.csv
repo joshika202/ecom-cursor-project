@@ -1,0 +1,306 @@
+review_id,order_id,product_id,customer_id,rating,review_date,review_text
+1,1,13,53,4,2025-07-20 10:20:47,Decent product for the price.
+2,2,23,13,1,2025-06-30 01:02:24,Exceeded expectations!
+3,4,25,52,5,2025-09-16 17:00:35,Exceeded expectations!
+4,5,40,60,2,2025-06-21 19:38:05,Would definitely recommend to friends.
+5,6,31,83,5,2025-10-26 23:09:02,Not satisfied with the durability.
+6,7,31,94,3,2025-10-28 19:26:04,Exceeded expectations!
+7,8,14,39,4,2025-07-15 03:15:38,Exceeded expectations!
+8,9,32,41,3,2025-07-23 05:40:10,Great quality and fast shipping.
+9,10,31,46,3,2025-06-21 12:31:13,Not satisfied with the durability.
+10,11,35,32,4,2025-11-10 17:54:38,Exceeded expectations!
+11,12,1,63,5,2025-09-05 10:39:53,Decent product for the price.
+12,14,31,8,5,2025-07-05 14:59:27,Not satisfied with the durability.
+13,15,40,37,4,2025-06-28 23:31:11,Not satisfied with the durability.
+14,16,5,56,2,2025-06-07 15:22:23,Would definitely recommend to friends.
+15,21,47,37,4,2025-10-01 09:47:15,Decent product for the price.
+16,23,42,66,4,2025-07-31 04:01:04,Would definitely recommend to friends.
+17,24,2,81,4,2025-11-13 22:40:25,Decent product for the price.
+18,25,19,27,5,2025-06-25 01:48:25,Great quality and fast shipping.
+19,26,10,82,3,2025-06-13 10:16:17,Decent product for the price.
+20,29,1,66,4,2025-06-25 00:32:10,Decent product for the price.
+21,30,43,95,3,2025-08-05 18:08:45,Not satisfied with the durability.
+22,32,12,11,1,2025-06-07 05:19:08,Exceeded expectations!
+23,34,32,9,2,2025-09-15 06:36:43,Exceeded expectations!
+24,37,42,4,4,2025-07-20 14:00:36,Decent product for the price.
+25,39,12,89,5,2025-09-12 03:25:15,Decent product for the price.
+26,40,26,17,3,2025-11-08 11:21:48,Decent product for the price.
+27,42,24,26,1,2025-10-05 18:57:58,Exceeded expectations!
+28,43,38,4,3,2025-08-02 07:14:07,Great quality and fast shipping.
+29,45,11,71,4,2025-06-15 08:35:28,Exceeded expectations!
+30,46,24,79,1,2025-07-27 21:17:17,Not satisfied with the durability.
+31,48,29,73,4,2025-05-28 21:09:22,Would definitely recommend to friends.
+32,49,20,57,2,2025-06-09 09:03:20,Not satisfied with the durability.
+33,50,8,9,1,2025-10-23 12:19:17,Great quality and fast shipping.
+34,51,12,38,1,2025-06-26 19:31:40,Decent product for the price.
+35,52,16,37,3,2025-08-07 20:19:44,Not satisfied with the durability.
+36,54,28,33,2,2025-08-22 13:02:25,Exceeded expectations!
+37,56,3,75,3,2025-09-07 20:21:12,Would definitely recommend to friends.
+38,58,22,59,3,2025-07-04 19:47:33,Exceeded expectations!
+39,60,15,44,2,2025-10-18 20:11:22,Great quality and fast shipping.
+40,61,27,51,3,2025-09-10 10:45:54,Would definitely recommend to friends.
+41,62,26,72,5,2025-05-18 23:13:47,Not satisfied with the durability.
+42,66,49,14,3,2025-10-23 08:41:38,Great quality and fast shipping.
+43,68,41,63,5,2025-08-25 06:54:46,Not satisfied with the durability.
+44,70,48,6,4,2025-07-29 11:44:43,Exceeded expectations!
+45,71,41,5,1,2025-09-28 23:59:22,Great quality and fast shipping.
+46,73,41,78,1,2025-05-26 07:21:26,Not satisfied with the durability.
+47,74,6,58,4,2025-05-26 20:47:23,Not satisfied with the durability.
+48,75,16,87,3,2025-11-13 21:29:31,Great quality and fast shipping.
+49,76,4,62,1,2025-10-20 02:34:49,Decent product for the price.
+50,80,39,72,3,2025-10-28 02:12:36,Would definitely recommend to friends.
+51,85,50,1,5,2025-10-22 09:40:40,Great quality and fast shipping.
+52,88,15,95,1,2025-07-12 18:54:49,Great quality and fast shipping.
+53,90,13,21,5,2025-07-05 07:01:52,Decent product for the price.
+54,91,14,63,5,2025-07-02 20:19:53,Not satisfied with the durability.
+55,94,36,79,4,2025-11-06 16:42:05,Great quality and fast shipping.
+56,95,22,20,4,2025-07-03 20:01:25,Would definitely recommend to friends.
+57,96,46,35,5,2025-06-27 19:26:19,Not satisfied with the durability.
+58,99,44,66,4,2025-08-09 13:32:02,Not satisfied with the durability.
+59,101,27,91,5,2025-07-18 20:30:12,Decent product for the price.
+60,102,35,18,3,2025-10-05 09:15:03,Not satisfied with the durability.
+61,103,44,28,1,2025-08-27 00:00:25,Exceeded expectations!
+62,104,16,45,3,2025-09-27 04:55:05,Great quality and fast shipping.
+63,105,38,16,3,2025-07-13 07:49:17,Great quality and fast shipping.
+64,110,30,48,2,2025-10-11 20:48:42,Great quality and fast shipping.
+65,111,10,97,2,2025-08-17 05:41:01,Exceeded expectations!
+66,112,11,90,2,2025-10-14 09:05:49,Exceeded expectations!
+67,114,39,75,2,2025-08-28 20:43:08,Great quality and fast shipping.
+68,117,30,85,1,2025-11-10 20:58:47,Would definitely recommend to friends.
+69,119,10,88,1,2025-10-12 13:53:30,Great quality and fast shipping.
+70,121,18,63,1,2025-09-06 15:09:54,Decent product for the price.
+71,127,13,3,3,2025-09-29 01:29:57,Would definitely recommend to friends.
+72,128,7,69,2,2025-08-09 18:17:30,Decent product for the price.
+73,129,12,88,5,2025-08-26 16:13:27,Would definitely recommend to friends.
+74,130,14,75,3,2025-07-13 15:43:34,Not satisfied with the durability.
+75,131,9,76,4,2025-08-12 03:00:19,Would definitely recommend to friends.
+76,133,23,99,4,2025-07-24 03:05:51,Would definitely recommend to friends.
+77,134,2,41,2,2025-11-12 04:44:48,Not satisfied with the durability.
+78,135,9,55,5,2025-09-19 14:23:35,Decent product for the price.
+79,136,44,1,2,2025-09-29 08:57:55,Great quality and fast shipping.
+80,137,18,33,5,2025-09-05 11:46:30,Great quality and fast shipping.
+81,138,14,59,3,2025-08-31 15:25:14,Exceeded expectations!
+82,139,7,90,1,2025-08-14 21:37:20,Exceeded expectations!
+83,140,38,26,4,2025-08-15 22:26:09,Would definitely recommend to friends.
+84,141,3,67,2,2025-05-29 08:30:03,Exceeded expectations!
+85,142,18,16,1,2025-06-08 04:05:28,Decent product for the price.
+86,147,29,58,3,2025-11-11 04:03:05,Not satisfied with the durability.
+87,148,34,79,5,2025-08-10 07:36:35,Decent product for the price.
+88,149,34,89,5,2025-09-28 09:25:02,Not satisfied with the durability.
+89,154,38,27,1,2025-11-03 19:10:48,Exceeded expectations!
+90,155,28,19,5,2025-07-29 07:18:25,Exceeded expectations!
+91,156,19,8,1,2025-11-01 00:18:12,Not satisfied with the durability.
+92,160,6,43,3,2025-06-14 00:41:40,Not satisfied with the durability.
+93,161,42,33,1,2025-08-23 18:30:55,Exceeded expectations!
+94,162,45,27,1,2025-10-17 19:21:12,Decent product for the price.
+95,163,7,3,1,2025-09-12 20:24:50,Great quality and fast shipping.
+96,164,36,5,3,2025-09-30 11:06:07,Not satisfied with the durability.
+97,165,26,64,3,2025-06-27 00:40:08,Exceeded expectations!
+98,166,13,4,5,2025-08-03 08:35:59,Exceeded expectations!
+99,172,16,1,2,2025-10-07 10:12:05,Decent product for the price.
+100,173,34,48,2,2025-08-26 23:55:05,Great quality and fast shipping.
+101,175,36,64,2,2025-11-07 22:17:54,Not satisfied with the durability.
+102,176,31,50,3,2025-06-26 15:31:37,Would definitely recommend to friends.
+103,177,7,14,2,2025-10-03 04:47:51,Decent product for the price.
+104,178,4,24,2,2025-11-09 07:21:57,Exceeded expectations!
+105,182,21,25,5,2025-06-24 23:53:33,Decent product for the price.
+106,183,20,50,1,2025-10-07 19:24:16,Decent product for the price.
+107,184,23,85,3,2025-06-24 01:04:24,Not satisfied with the durability.
+108,186,46,32,2,2025-10-28 09:58:07,Decent product for the price.
+109,187,20,58,5,2025-07-04 00:57:13,Would definitely recommend to friends.
+110,188,24,59,2,2025-10-10 22:17:43,Would definitely recommend to friends.
+111,189,10,90,3,2025-11-09 00:56:58,Great quality and fast shipping.
+112,191,11,79,4,2025-09-23 22:01:00,Exceeded expectations!
+113,192,21,32,4,2025-08-25 17:53:34,Decent product for the price.
+114,193,36,84,4,2025-07-14 01:10:24,Great quality and fast shipping.
+115,196,38,92,2,2025-11-05 07:23:05,Great quality and fast shipping.
+116,197,6,73,4,2025-09-07 22:27:59,Exceeded expectations!
+117,200,27,5,4,2025-05-28 22:08:02,Exceeded expectations!
+118,201,49,18,5,2025-10-11 21:37:11,Would definitely recommend to friends.
+119,204,10,71,4,2025-06-14 16:26:33,Great quality and fast shipping.
+120,206,44,38,1,2025-10-02 14:24:13,Would definitely recommend to friends.
+121,207,9,62,2,2025-10-26 01:47:41,Exceeded expectations!
+122,208,47,17,4,2025-08-03 10:24:35,Decent product for the price.
+123,209,29,20,5,2025-10-21 01:59:09,Decent product for the price.
+124,210,3,58,1,2025-10-30 16:26:44,Would definitely recommend to friends.
+125,211,39,51,2,2025-10-14 19:53:38,Not satisfied with the durability.
+126,212,30,66,2,2025-09-10 00:54:25,Not satisfied with the durability.
+127,213,31,36,1,2025-07-08 16:33:16,Exceeded expectations!
+128,214,48,78,1,2025-10-31 05:58:15,Great quality and fast shipping.
+129,215,4,43,3,2025-09-10 23:05:09,Great quality and fast shipping.
+130,216,13,88,5,2025-08-24 18:37:45,Decent product for the price.
+131,217,39,17,2,2025-08-23 01:35:54,Exceeded expectations!
+132,218,35,100,2,2025-11-02 05:27:52,Decent product for the price.
+133,219,36,12,3,2025-05-31 15:16:35,Exceeded expectations!
+134,222,40,11,2,2025-07-03 04:16:48,Decent product for the price.
+135,223,21,90,4,2025-07-21 00:26:40,Not satisfied with the durability.
+136,225,45,19,4,2025-05-19 22:08:09,Decent product for the price.
+137,226,33,33,4,2025-11-02 17:19:12,Not satisfied with the durability.
+138,227,16,76,1,2025-10-18 21:50:56,Decent product for the price.
+139,229,50,49,2,2025-10-25 20:17:59,Great quality and fast shipping.
+140,230,2,95,3,2025-06-01 23:47:06,Great quality and fast shipping.
+141,231,38,46,5,2025-05-26 21:02:51,Exceeded expectations!
+142,232,20,53,1,2025-06-09 01:47:06,Not satisfied with the durability.
+143,234,39,1,5,2025-07-29 22:14:56,Would definitely recommend to friends.
+144,236,24,24,3,2025-09-11 21:04:46,Great quality and fast shipping.
+145,237,6,26,3,2025-08-02 11:45:12,Not satisfied with the durability.
+146,241,4,77,1,2025-09-15 04:53:55,Exceeded expectations!
+147,242,47,67,2,2025-08-31 19:06:06,Decent product for the price.
+148,244,9,64,1,2025-10-26 19:15:30,Not satisfied with the durability.
+149,249,20,34,5,2025-08-07 09:27:14,Would definitely recommend to friends.
+150,251,32,21,5,2025-06-20 22:21:56,Not satisfied with the durability.
+151,252,43,50,4,2025-10-26 18:07:19,Decent product for the price.
+152,254,15,45,1,2025-07-31 07:02:49,Great quality and fast shipping.
+153,255,48,77,2,2025-10-25 04:17:36,Would definitely recommend to friends.
+154,257,34,70,5,2025-08-11 12:43:49,Decent product for the price.
+155,258,8,54,3,2025-07-08 10:15:13,Great quality and fast shipping.
+156,259,47,45,3,2025-09-24 20:01:28,Great quality and fast shipping.
+157,260,16,46,4,2025-08-11 12:25:42,Would definitely recommend to friends.
+158,262,35,54,3,2025-07-01 07:03:50,Exceeded expectations!
+159,264,42,88,2,2025-09-16 01:17:40,Not satisfied with the durability.
+160,265,19,93,3,2025-09-12 19:33:01,Not satisfied with the durability.
+161,267,5,92,3,2025-06-01 18:58:18,Would definitely recommend to friends.
+162,269,29,29,2,2025-10-02 00:40:53,Would definitely recommend to friends.
+163,273,24,91,1,2025-06-25 10:12:40,Exceeded expectations!
+164,277,24,66,5,2025-08-25 06:49:20,Great quality and fast shipping.
+165,281,10,52,4,2025-05-26 09:53:05,Great quality and fast shipping.
+166,282,19,92,4,2025-07-17 13:31:44,Exceeded expectations!
+167,283,46,80,1,2025-08-03 06:22:19,Exceeded expectations!
+168,287,14,99,5,2025-05-24 17:34:23,Decent product for the price.
+169,288,38,94,3,2025-09-18 19:03:52,Exceeded expectations!
+170,289,39,5,2,2025-06-12 18:47:32,Decent product for the price.
+171,291,30,17,1,2025-09-28 04:13:02,Exceeded expectations!
+172,294,2,79,4,2025-06-09 12:08:04,Great quality and fast shipping.
+173,295,15,76,1,2025-11-02 11:22:37,Would definitely recommend to friends.
+174,298,10,19,3,2025-07-08 07:00:37,Exceeded expectations!
+175,299,8,68,3,2025-09-07 04:17:00,Decent product for the price.
+176,300,12,11,5,2025-06-16 00:33:19,Would definitely recommend to friends.
+177,301,7,63,3,2025-07-09 19:45:10,Would definitely recommend to friends.
+178,302,25,35,5,2025-06-23 10:18:48,Decent product for the price.
+179,303,28,5,3,2025-08-05 22:19:41,Would definitely recommend to friends.
+180,304,38,11,4,2025-06-20 01:03:20,Great quality and fast shipping.
+181,305,39,95,4,2025-05-31 03:08:07,Not satisfied with the durability.
+182,306,49,23,4,2025-10-17 21:34:53,Would definitely recommend to friends.
+183,307,9,8,5,2025-08-11 07:12:51,Great quality and fast shipping.
+184,310,25,60,4,2025-06-20 03:22:58,Great quality and fast shipping.
+185,311,37,53,4,2025-11-09 23:27:45,Not satisfied with the durability.
+186,312,42,94,5,2025-07-14 05:13:57,Exceeded expectations!
+187,314,44,87,3,2025-11-13 12:01:36,Not satisfied with the durability.
+188,315,12,92,1,2025-06-03 17:18:23,Exceeded expectations!
+189,316,14,81,3,2025-06-30 10:16:36,Would definitely recommend to friends.
+190,317,21,58,4,2025-09-25 03:44:51,Great quality and fast shipping.
+191,318,22,22,3,2025-10-31 02:34:56,Would definitely recommend to friends.
+192,319,34,97,2,2025-10-16 15:03:10,Would definitely recommend to friends.
+193,320,30,26,4,2025-06-27 17:33:45,Great quality and fast shipping.
+194,321,37,50,4,2025-11-11 21:30:59,Not satisfied with the durability.
+195,322,6,75,2,2025-08-13 19:49:32,Decent product for the price.
+196,324,20,98,1,2025-10-11 17:43:03,Would definitely recommend to friends.
+197,325,22,89,1,2025-08-09 20:12:36,Not satisfied with the durability.
+198,326,9,46,5,2025-08-29 02:32:03,Great quality and fast shipping.
+199,328,11,45,4,2025-08-23 11:55:14,Great quality and fast shipping.
+200,329,32,82,1,2025-06-22 21:08:42,Decent product for the price.
+201,331,49,18,5,2025-07-31 14:11:55,Would definitely recommend to friends.
+202,332,39,15,3,2025-07-09 11:31:37,Would definitely recommend to friends.
+203,340,20,19,4,2025-10-21 18:35:02,Decent product for the price.
+204,342,11,24,1,2025-10-05 01:56:03,Would definitely recommend to friends.
+205,344,12,93,2,2025-07-29 01:08:07,Not satisfied with the durability.
+206,346,22,75,4,2025-08-07 13:56:13,Not satisfied with the durability.
+207,347,48,89,4,2025-07-11 06:18:49,Decent product for the price.
+208,348,2,64,4,2025-08-24 13:07:03,Decent product for the price.
+209,349,8,99,2,2025-11-05 04:34:15,Great quality and fast shipping.
+210,350,37,14,4,2025-05-22 05:14:33,Not satisfied with the durability.
+211,352,39,23,4,2025-06-22 23:23:00,Not satisfied with the durability.
+212,357,9,55,4,2025-09-03 20:05:58,Not satisfied with the durability.
+213,358,9,21,5,2025-07-04 15:27:55,Great quality and fast shipping.
+214,359,25,38,3,2025-07-17 18:16:02,Not satisfied with the durability.
+215,361,29,65,5,2025-05-26 01:22:43,Not satisfied with the durability.
+216,363,27,11,2,2025-09-18 02:54:54,Would definitely recommend to friends.
+217,367,23,11,5,2025-06-07 19:03:17,Great quality and fast shipping.
+218,368,26,17,5,2025-10-26 02:50:34,Would definitely recommend to friends.
+219,369,27,16,5,2025-05-31 12:30:29,Great quality and fast shipping.
+220,370,40,69,5,2025-09-26 17:05:03,Exceeded expectations!
+221,371,5,46,2,2025-08-01 10:31:47,Great quality and fast shipping.
+222,373,50,95,3,2025-08-03 20:31:26,Great quality and fast shipping.
+223,375,14,14,3,2025-10-11 01:52:45,Would definitely recommend to friends.
+224,376,47,96,2,2025-09-19 03:00:14,Would definitely recommend to friends.
+225,377,49,85,2,2025-07-28 09:10:36,Would definitely recommend to friends.
+226,378,33,49,1,2025-07-22 00:31:01,Would definitely recommend to friends.
+227,379,41,11,4,2025-10-16 05:30:09,Exceeded expectations!
+228,381,12,38,4,2025-11-13 08:35:58,Decent product for the price.
+229,384,26,58,5,2025-06-08 05:16:54,Decent product for the price.
+230,387,29,18,4,2025-08-24 08:39:48,Decent product for the price.
+231,388,34,55,3,2025-08-14 01:58:40,Great quality and fast shipping.
+232,389,48,70,4,2025-09-13 14:31:04,Exceeded expectations!
+233,390,42,80,4,2025-10-01 08:30:26,Not satisfied with the durability.
+234,391,48,10,4,2025-06-24 19:18:46,Great quality and fast shipping.
+235,392,21,32,3,2025-09-09 13:54:30,Would definitely recommend to friends.
+236,394,22,42,3,2025-10-01 23:12:28,Not satisfied with the durability.
+237,397,15,59,1,2025-07-26 09:43:27,Exceeded expectations!
+238,399,28,99,5,2025-11-06 08:48:12,Decent product for the price.
+239,400,2,34,3,2025-11-07 06:33:02,Would definitely recommend to friends.
+240,401,31,40,1,2025-05-20 02:28:26,Not satisfied with the durability.
+241,402,16,59,3,2025-06-13 16:14:10,Decent product for the price.
+242,404,44,40,5,2025-05-26 00:51:46,Great quality and fast shipping.
+243,405,18,37,2,2025-10-17 23:54:22,Would definitely recommend to friends.
+244,408,24,88,4,2025-10-19 04:43:47,Would definitely recommend to friends.
+245,410,6,77,3,2025-06-15 06:42:31,Exceeded expectations!
+246,411,45,97,4,2025-06-06 23:15:26,Exceeded expectations!
+247,416,29,83,1,2025-06-05 10:05:44,Not satisfied with the durability.
+248,417,16,53,3,2025-06-02 09:24:07,Decent product for the price.
+249,418,35,18,5,2025-09-20 07:18:22,Not satisfied with the durability.
+250,419,2,3,2,2025-09-20 03:56:52,Would definitely recommend to friends.
+251,421,44,89,4,2025-10-29 03:52:06,Exceeded expectations!
+252,422,7,46,5,2025-06-05 02:33:49,Exceeded expectations!
+253,424,42,23,1,2025-09-22 05:25:10,Great quality and fast shipping.
+254,426,36,45,4,2025-11-13 12:00:31,Would definitely recommend to friends.
+255,427,49,32,4,2025-09-20 17:24:30,Not satisfied with the durability.
+256,431,41,84,4,2025-05-18 13:59:47,Great quality and fast shipping.
+257,432,16,32,3,2025-08-17 12:08:24,Not satisfied with the durability.
+258,433,6,44,3,2025-10-30 03:18:03,Would definitely recommend to friends.
+259,435,6,89,2,2025-09-12 10:33:25,Decent product for the price.
+260,436,10,75,3,2025-08-24 06:57:15,Not satisfied with the durability.
+261,439,34,15,4,2025-06-08 23:02:21,Decent product for the price.
+262,440,11,24,5,2025-07-06 00:55:24,Decent product for the price.
+263,441,47,12,3,2025-06-03 19:40:51,Not satisfied with the durability.
+264,442,50,41,1,2025-09-10 00:35:51,Exceeded expectations!
+265,443,32,41,1,2025-05-28 14:45:50,Decent product for the price.
+266,446,30,43,2,2025-11-07 19:32:08,Would definitely recommend to friends.
+267,447,45,23,2,2025-06-05 01:20:33,Not satisfied with the durability.
+268,449,49,2,2,2025-10-23 01:40:03,Decent product for the price.
+269,450,41,11,3,2025-10-26 01:49:08,Great quality and fast shipping.
+270,451,11,39,1,2025-06-30 21:31:09,Great quality and fast shipping.
+271,452,44,29,2,2025-10-17 22:24:51,Great quality and fast shipping.
+272,454,1,77,3,2025-11-07 14:38:12,Great quality and fast shipping.
+273,456,48,45,2,2025-06-22 11:42:31,Great quality and fast shipping.
+274,457,41,64,1,2025-08-11 02:18:06,Exceeded expectations!
+275,458,47,84,3,2025-09-01 06:07:06,Would definitely recommend to friends.
+276,459,21,50,1,2025-07-19 21:11:22,Decent product for the price.
+277,460,5,33,4,2025-10-26 22:17:53,Decent product for the price.
+278,461,31,80,1,2025-09-19 02:56:20,Great quality and fast shipping.
+279,462,23,11,5,2025-06-09 23:43:46,Exceeded expectations!
+280,463,19,74,2,2025-09-16 04:37:12,Decent product for the price.
+281,465,26,27,2,2025-08-31 08:42:39,Would definitely recommend to friends.
+282,467,23,30,1,2025-09-22 22:17:02,Exceeded expectations!
+283,468,50,77,2,2025-05-19 20:18:20,Decent product for the price.
+284,469,38,50,5,2025-09-30 03:29:01,Exceeded expectations!
+285,472,37,76,2,2025-09-13 22:48:31,Exceeded expectations!
+286,473,3,99,4,2025-06-15 05:25:58,Not satisfied with the durability.
+287,474,10,24,1,2025-11-05 01:34:11,Exceeded expectations!
+288,475,22,7,3,2025-09-06 09:09:09,Would definitely recommend to friends.
+289,478,1,96,2,2025-05-31 19:33:52,Decent product for the price.
+290,480,35,22,2,2025-06-16 02:34:47,Not satisfied with the durability.
+291,481,3,58,2,2025-08-09 15:15:27,Exceeded expectations!
+292,482,39,57,2,2025-06-15 11:52:26,Great quality and fast shipping.
+293,483,23,99,4,2025-08-31 07:16:48,Decent product for the price.
+294,484,39,27,1,2025-10-14 17:38:12,Not satisfied with the durability.
+295,485,14,95,2,2025-10-21 16:33:56,Not satisfied with the durability.
+296,486,41,52,3,2025-09-12 07:04:08,Exceeded expectations!
+297,487,37,28,5,2025-06-19 01:10:06,Great quality and fast shipping.
+298,488,29,9,4,2025-06-15 16:56:58,Not satisfied with the durability.
+299,489,36,4,3,2025-08-13 08:00:16,Would definitely recommend to friends.
+300,490,33,75,2,2025-10-28 22:15:54,Would definitely recommend to friends.
+301,493,40,42,2,2025-09-28 17:48:42,Would definitely recommend to friends.
+302,494,30,20,1,2025-09-13 10:09:51,Not satisfied with the durability.
+303,496,14,66,5,2025-08-09 15:48:37,Decent product for the price.
+304,498,19,14,1,2025-06-25 20:53:16,Not satisfied with the durability.
+305,500,32,77,1,2025-09-15 18:21:28,Not satisfied with the durability.

@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,city,state,signup_date,loyalty_tier
+1,Hayden,Lopez,hayden.lopez1@example.com,Seattle,CA,2024-11-18,Silver
+2,Morgan,Lee,morgan.lee2@example.com,Chicago,WA,2025-01-07,Gold
+3,Hayden,Patel,hayden.patel3@example.com,Seattle,FL,2025-05-08,Platinum
+4,Morgan,Smith,morgan.smith4@example.com,Atlanta,WA,2024-12-31,Bronze
+5,Alex,Chen,alex.chen5@example.com,Seattle,IL,2025-01-19,Platinum
+6,Emerson,Davis,emerson.davis6@example.com,San Francisco,CA,2025-08-28,Silver
+7,Emerson,Smith,emerson.smith7@example.com,Miami,IL,2025-05-22,Platinum
+8,Taylor,Smith,taylor.smith8@example.com,New York,MA,2025-04-20,Silver
+9,Casey,Lee,casey.lee9@example.com,Atlanta,AZ,2025-05-14,Silver
+10,Casey,Garcia,casey.garcia10@example.com,New York,IL,2025-02-12,Gold
+11,Harper,Patel,harper.patel11@example.com,San Francisco,GA,2025-03-30,Bronze
+12,Dakota,Patel,dakota.patel12@example.com,Boston,WA,2025-02-24,Silver
+13,Casey,Smith,casey.smith13@example.com,Atlanta,MA,2025-10-17,Gold
+14,Jordan,Brown,jordan.brown14@example.com,Miami,GA,2025-05-12,Gold
+15,Alex,Lee,alex.lee15@example.com,Phoenix,WA,2025-03-27,Bronze
+16,Jordan,Wilson,jordan.wilson16@example.com,Boston,GA,2025-06-24,Bronze
+17,Harper,Wilson,harper.wilson17@example.com,New York,GA,2025-02-19,Bronze
+18,Emerson,Lopez,emerson.lopez18@example.com,Boston,GA,2025-10-31,Bronze
+19,Riley,Wilson,riley.wilson19@example.com,Seattle,FL,2025-04-23,Gold
+20,Harper,Chen,harper.chen20@example.com,Miami,IL,2025-06-08,Silver
+21,Harper,Davis,harper.davis21@example.com,Phoenix,AZ,2025-10-26,Gold
+22,Harper,Lopez,harper.lopez22@example.com,Seattle,TX,2024-11-14,Platinum
+23,Hayden,Wilson,hayden.wilson23@example.com,Denver,CO,2025-10-15,Platinum
+24,Casey,Lopez,casey.lopez24@example.com,San Francisco,WA,2025-07-14,Gold
+25,Jordan,Patel,jordan.patel25@example.com,Austin,TX,2025-10-24,Silver
+26,Alex,Smith,alex.smith26@example.com,Phoenix,CA,2025-03-19,Platinum
+27,Harper,Wilson,harper.wilson27@example.com,Denver,GA,2025-02-21,Silver
+28,Taylor,Smith,taylor.smith28@example.com,Austin,IL,2025-01-07,Platinum
+29,Alex,Lopez,alex.lopez29@example.com,Denver,IL,2025-03-21,Platinum
+30,Emerson,Lopez,emerson.lopez30@example.com,Denver,AZ,2025-09-14,Platinum
+31,Emerson,Martinez,emerson.martinez31@example.com,Denver,WA,2025-02-03,Silver
+32,Morgan,Lopez,morgan.lopez32@example.com,Austin,WA,2025-07-20,Platinum
+33,Jordan,Brown,jordan.brown33@example.com,Boston,MA,2025-03-14,Bronze
+34,Taylor,Garcia,taylor.garcia34@example.com,Chicago,TX,2025-03-12,Bronze
+35,Harper,Davis,harper.davis35@example.com,Denver,GA,2025-05-02,Bronze
+36,Casey,Davis,casey.davis36@example.com,New York,AZ,2025-06-01,Platinum
+37,Dakota,Smith,dakota.smith37@example.com,Atlanta,GA,2025-05-13,Silver
+38,Dakota,Patel,dakota.patel38@example.com,Denver,NY,2025-04-02,Platinum
+39,Riley,Davis,riley.davis39@example.com,Chicago,AZ,2025-02-06,Bronze
+40,Harper,Wilson,harper.wilson40@example.com,San Francisco,GA,2025-08-29,Silver
+41,Dakota,Garcia,dakota.garcia41@example.com,Atlanta,MA,2024-12-09,Silver
+42,Dakota,Chen,dakota.chen42@example.com,Seattle,GA,2025-05-05,Gold
+43,Jordan,Martinez,jordan.martinez43@example.com,New York,MA,2024-11-23,Silver
+44,Jordan,Smith,jordan.smith44@example.com,Austin,NY,2024-11-29,Silver
+45,Casey,Garcia,casey.garcia45@example.com,Phoenix,TX,2025-07-14,Platinum
+46,Morgan,Chen,morgan.chen46@example.com,Phoenix,CA,2025-02-07,Silver
+47,Morgan,Lee,morgan.lee47@example.com,Seattle,AZ,2025-09-06,Platinum
+48,Harper,Patel,harper.patel48@example.com,Austin,CA,2024-12-22,Gold
+49,Hayden,Lee,hayden.lee49@example.com,Boston,FL,2025-08-30,Platinum
+50,Riley,Lee,riley.lee50@example.com,Boston,NY,2025-07-31,Platinum
+51,Dakota,Lee,dakota.lee51@example.com,Denver,IL,2025-06-23,Platinum
+52,Taylor,Lopez,taylor.lopez52@example.com,Phoenix,FL,2025-10-13,Platinum
+53,Dakota,Davis,dakota.davis53@example.com,Boston,TX,2025-09-13,Bronze
+54,Morgan,Martinez,morgan.martinez54@example.com,Phoenix,AZ,2025-03-18,Platinum
+55,Riley,Smith,riley.smith55@example.com,Chicago,CO,2025-07-25,Silver
+56,Riley,Brown,riley.brown56@example.com,Phoenix,WA,2025-05-07,Bronze
+57,Emerson,Patel,emerson.patel57@example.com,Atlanta,CO,2024-12-27,Silver
+58,Dakota,Martinez,dakota.martinez58@example.com,San Francisco,WA,2025-07-01,Silver
+59,Harper,Patel,harper.patel59@example.com,Boston,CO,2025-04-19,Gold
+60,Harper,Lopez,harper.lopez60@example.com,Denver,WA,2025-05-02,Gold
+61,Morgan,Patel,morgan.patel61@example.com,Boston,CA,2025-01-14,Silver
+62,Casey,Patel,casey.patel62@example.com,Phoenix,FL,2025-07-19,Gold
+63,Jordan,Patel,jordan.patel63@example.com,Boston,IL,2025-04-14,Gold
+64,Alex,Lopez,alex.lopez64@example.com,New York,NY,2025-01-17,Gold
+65,Taylor,Martinez,taylor.martinez65@example.com,Phoenix,WA,2025-01-05,Platinum
+66,Dakota,Martinez,dakota.martinez66@example.com,New York,WA,2025-05-07,Platinum
+67,Jordan,Lee,jordan.lee67@example.com,San Francisco,AZ,2025-06-07,Bronze
+68,Taylor,Garcia,taylor.garcia68@example.com,San Francisco,TX,2025-08-29,Bronze
+69,Emerson,Davis,emerson.davis69@example.com,Phoenix,TX,2025-09-20,Platinum
+70,Dakota,Martinez,dakota.martinez70@example.com,Atlanta,WA,2025-04-15,Bronze
+71,Hayden,Lee,hayden.lee71@example.com,Austin,WA,2025-02-28,Bronze
+72,Taylor,Patel,taylor.patel72@example.com,San Francisco,IL,2025-02-10,Bronze
+73,Harper,Martinez,harper.martinez73@example.com,Denver,WA,2025-11-01,Bronze
+74,Casey,Brown,casey.brown74@example.com,Denver,CA,2025-11-10,Silver
+75,Morgan,Wilson,morgan.wilson75@example.com,Atlanta,CA,2025-10-18,Silver
+76,Taylor,Brown,taylor.brown76@example.com,New York,IL,2025-01-25,Gold
+77,Hayden,Wilson,hayden.wilson77@example.com,San Francisco,CO,2025-04-10,Gold
+78,Harper,Brown,harper.brown78@example.com,Denver,CO,2025-07-28,Bronze
+79,Hayden,Smith,hayden.smith79@example.com,Phoenix,WA,2025-06-23,Bronze
+80,Jordan,Patel,jordan.patel80@example.com,Phoenix,NY,2025-10-25,Gold
+81,Hayden,Smith,hayden.smith81@example.com,Miami,CO,2025-02-11,Gold
+82,Taylor,Wilson,taylor.wilson82@example.com,Denver,CA,2025-06-25,Platinum
+83,Riley,Davis,riley.davis83@example.com,San Francisco,IL,2025-05-03,Gold
+84,Harper,Martinez,harper.martinez84@example.com,Miami,NY,2025-04-10,Platinum
+85,Jordan,Chen,jordan.chen85@example.com,San Francisco,GA,2025-03-23,Bronze
+86,Emerson,Martinez,emerson.martinez86@example.com,Austin,FL,2025-06-13,Gold
+87,Hayden,Martinez,hayden.martinez87@example.com,New York,TX,2025-09-30,Gold
+88,Emerson,Garcia,emerson.garcia88@example.com,Denver,CA,2025-04-10,Bronze
+89,Hayden,Patel,hayden.patel89@example.com,Seattle,FL,2025-11-12,Bronze
+90,Emerson,Davis,emerson.davis90@example.com,San Francisco,CO,2024-12-31,Bronze
+91,Taylor,Martinez,taylor.martinez91@example.com,Seattle,GA,2025-04-12,Platinum
+92,Dakota,Patel,dakota.patel92@example.com,Chicago,GA,2025-07-05,Silver
+93,Hayden,Lopez,hayden.lopez93@example.com,Seattle,GA,2025-01-22,Gold
+94,Emerson,Brown,emerson.brown94@example.com,Seattle,AZ,2024-11-15,Platinum
+95,Taylor,Martinez,taylor.martinez95@example.com,Boston,MA,2025-08-16,Platinum
+96,Dakota,Chen,dakota.chen96@example.com,Phoenix,GA,2025-02-18,Silver
+97,Harper,Smith,harper.smith97@example.com,Atlanta,GA,2025-04-25,Silver
+98,Dakota,Smith,dakota.smith98@example.com,Phoenix,MA,2025-01-17,Bronze
+99,Dakota,Lee,dakota.lee99@example.com,New York,IL,2025-08-10,Platinum
+100,Taylor,Lee,taylor.lee100@example.com,Boston,AZ,2025-07-12,Platinum

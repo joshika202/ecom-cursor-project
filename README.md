@@ -109,7 +109,7 @@ Here is a **clean, ready-to-paste bullet list** for your README:
 
 ##Pictuers
 
-![generate_data output](pic/Screenshot-1.png)
+![Order Summary Screenshot](https://github.com/joshika202/ecom-cursor-project/blob/main/pic/Screenshot%20-1.png)
 
 
 

@@ -109,5 +109,5 @@ Here is a **clean, ready-to-paste bullet list** for your README:
 
 ##Pictuers
 
-![generate_data output](pic/ScreenShot-1)
+![generate_data output](pic/Screenshot -1.png)
 
